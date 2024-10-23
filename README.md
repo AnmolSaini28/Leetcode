@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnmolSaini28/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/AnmolSaini28/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/AnmolSaini28/Leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AnmolSaini28/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1829-maximum-units-on-a-truck](https://github.com/AnmolSaini28/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnmolSaini28/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/AnmolSaini28/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/AnmolSaini28/Leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AnmolSaini28/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0678-valid-parenthesis-string) |
