@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AnmolSaini28/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/AnmolSaini28/Leetcode/tree/master/2580-circular-sentence) |
 ## Dynamic Programming
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AnmolSaini28/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
