@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/AnmolSaini28/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2047-find-a-peak-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AnmolSaini28/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AnmolSaini28/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AnmolSaini28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AnmolSaini28/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AnmolSaini28/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AnmolSaini28/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0229-majority-element-ii) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AnmolSaini28/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AnmolSaini28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnmolSaini28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AnmolSaini28/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AnmolSaini28/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->
