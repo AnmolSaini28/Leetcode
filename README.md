@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AnmolSaini28/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnmolSaini28/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/AnmolSaini28/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1829-maximum-units-on-a-truck](https://github.com/AnmolSaini28/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1940-maximum-xor-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2047-find-a-peak-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AnmolSaini28/Leetcode/tree/master/0455-assign-cookies) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AnmolSaini28/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnmolSaini28/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/AnmolSaini28/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2047-find-a-peak-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Divide and Conquer
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AnmolSaini28/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3394-minimum-array-end](https://github.com/AnmolSaini28/Leetcode/tree/master/3394-minimum-array-end) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
