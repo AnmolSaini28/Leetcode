@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnmolSaini28/Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/AnmolSaini28/Leetcode/tree/master/0493-reverse-pairs) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AnmolSaini28/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolSaini28/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/AnmolSaini28/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/AnmolSaini28/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnmolSaini28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolSaini28/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AnmolSaini28/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Tree
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AnmolSaini28/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/AnmolSaini28/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0493-reverse-pairs](https://github.com/AnmolSaini28/Leetcode/tree/master/0493-reverse-pairs) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolSaini28/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/AnmolSaini28/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnmolSaini28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnmolSaini28/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnmolSaini28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnmolSaini28/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolSaini28/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/AnmolSaini28/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnmolSaini28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnmolSaini28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolSaini28/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnmolSaini28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnmolSaini28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnmolSaini28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -203,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolSaini28/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolSaini28/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
