@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/AnmolSaini28/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AnmolSaini28/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
