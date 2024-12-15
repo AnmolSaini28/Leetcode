@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/AnmolSaini28/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1829-maximum-units-on-a-truck](https://github.com/AnmolSaini28/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AnmolSaini28/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/AnmolSaini28/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/AnmolSaini28/Leetcode/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AnmolSaini28/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1829-maximum-units-on-a-truck](https://github.com/AnmolSaini28/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1917-maximum-average-pass-ratio](https://github.com/AnmolSaini28/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/AnmolSaini28/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnmolSaini28/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolSaini28/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1917-maximum-average-pass-ratio](https://github.com/AnmolSaini28/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AnmolSaini28/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolSaini28/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnmolSaini28/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
