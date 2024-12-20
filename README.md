@@ -170,22 +170,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AnmolSaini28/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/AnmolSaini28/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AnmolSaini28/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnmolSaini28/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AnmolSaini28/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AnmolSaini28/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Math
 |  |
