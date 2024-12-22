@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/AnmolSaini28/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AnmolSaini28/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AnmolSaini28/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnmolSaini28/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AnmolSaini28/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AnmolSaini28/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/AnmolSaini28/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AnmolSaini28/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnmolSaini28/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AnmolSaini28/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AnmolSaini28/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
@@ -232,10 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AnmolSaini28/Leetcode/tree/master/0493-reverse-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AnmolSaini28/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AnmolSaini28/Leetcode/tree/master/0493-reverse-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AnmolSaini28/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
@@ -309,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnmolSaini28/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AnmolSaini28/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Queue
 |  |
 | ------- |
