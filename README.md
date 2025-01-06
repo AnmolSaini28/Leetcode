@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/AnmolSaini28/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1829-maximum-units-on-a-truck](https://github.com/AnmolSaini28/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AnmolSaini28/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AnmolSaini28/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/AnmolSaini28/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/AnmolSaini28/Leetcode/tree/master/1972-rotating-the-box) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AnmolSaini28/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AnmolSaini28/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AnmolSaini28/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AnmolSaini28/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/AnmolSaini28/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnmolSaini28/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/AnmolSaini28/Leetcode/tree/master/2580-circular-sentence) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AnmolSaini28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnmolSaini28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AnmolSaini28/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AnmolSaini28/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [3427-special-array-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
