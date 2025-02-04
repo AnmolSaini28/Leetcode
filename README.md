@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/AnmolSaini28/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AnmolSaini28/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AnmolSaini28/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AnmolSaini28/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AnmolSaini28/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AnmolSaini28/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AnmolSaini28/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/AnmolSaini28/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AnmolSaini28/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolSaini28/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Stack
 |  |
