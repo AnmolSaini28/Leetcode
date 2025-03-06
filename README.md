@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/AnmolSaini28/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/AnmolSaini28/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AnmolSaini28/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/AnmolSaini28/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AnmolSaini28/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AnmolSaini28/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AnmolSaini28/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AnmolSaini28/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/AnmolSaini28/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1917-maximum-average-pass-ratio](https://github.com/AnmolSaini28/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/AnmolSaini28/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/AnmolSaini28/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AnmolSaini28/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AnmolSaini28/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolSaini28/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Stack
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnmolSaini28/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/AnmolSaini28/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AnmolSaini28/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AnmolSaini28/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolSaini28/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
