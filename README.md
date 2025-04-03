@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AnmolSaini28/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AnmolSaini28/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/AnmolSaini28/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnmolSaini28/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/AnmolSaini28/Leetcode/tree/master/0135-candy) |
 | [0229-majority-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AnmolSaini28/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnmolSaini28/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/AnmolSaini28/Leetcode/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnmolSaini28/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/AnmolSaini28/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AnmolSaini28/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnmolSaini28/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
