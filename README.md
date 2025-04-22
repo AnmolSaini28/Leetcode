@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnmolSaini28/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/AnmolSaini28/Leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnmolSaini28/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AnmolSaini28/Leetcode/tree/master/0056-merge-intervals) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AnmolSaini28/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnmolSaini28/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/AnmolSaini28/Leetcode/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AnmolSaini28/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
