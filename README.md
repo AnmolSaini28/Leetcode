@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnmolSaini28/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AnmolSaini28/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnmolSaini28/Leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnmolSaini28/Leetcode/tree/master/0055-jump-game) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AnmolSaini28/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnmolSaini28/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnmolSaini28/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/AnmolSaini28/Leetcode/tree/master/0455-assign-cookies) |
