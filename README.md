@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnmolSaini28/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnmolSaini28/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnmolSaini28/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AnmolSaini28/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnmolSaini28/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AnmolSaini28/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/AnmolSaini28/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnmolSaini28/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2580-circular-sentence](https://github.com/AnmolSaini28/Leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AnmolSaini28/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AnmolSaini28/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AnmolSaini28/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AnmolSaini28/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolSaini28/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
 |  |
 | ------- |
@@ -452,4 +455,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AnmolSaini28/Leetcode/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
