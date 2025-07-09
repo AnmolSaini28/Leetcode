@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnmolSaini28/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AnmolSaini28/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnmolSaini28/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AnmolSaini28/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
