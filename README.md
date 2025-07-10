@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnmolSaini28/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AnmolSaini28/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnmolSaini28/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AnmolSaini28/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Design
 |  |
 | ------- |
