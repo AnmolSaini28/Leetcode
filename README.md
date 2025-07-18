@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnmolSaini28/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnmolSaini28/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/AnmolSaini28/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AnmolSaini28/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AnmolSaini28/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AnmolSaini28/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AnmolSaini28/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolSaini28/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AnmolSaini28/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AnmolSaini28/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolSaini28/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnmolSaini28/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AnmolSaini28/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnmolSaini28/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnmolSaini28/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2479-meeting-rooms-iii](https://github.com/AnmolSaini28/Leetcode/tree/master/2479-meeting-rooms-iii) |
