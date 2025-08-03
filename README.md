@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnmolSaini28/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnmolSaini28/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnmolSaini28/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/AnmolSaini28/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AnmolSaini28/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AnmolSaini28/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolSaini28/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnmolSaini28/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnmolSaini28/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolSaini28/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnmolSaini28/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AnmolSaini28/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/AnmolSaini28/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/AnmolSaini28/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnmolSaini28/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolSaini28/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/AnmolSaini28/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AnmolSaini28/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnmolSaini28/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AnmolSaini28/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3427-special-array-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/3427-special-array-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AnmolSaini28/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
