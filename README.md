@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/AnmolSaini28/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AnmolSaini28/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AnmolSaini28/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AnmolSaini28/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnmolSaini28/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/AnmolSaini28/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/AnmolSaini28/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AnmolSaini28/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AnmolSaini28/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AnmolSaini28/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnmolSaini28/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/AnmolSaini28/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AnmolSaini28/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnmolSaini28/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1972-rotating-the-box](https://github.com/AnmolSaini28/Leetcode/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/AnmolSaini28/Leetcode/tree/master/2089-maximum-matrix-sum) |
