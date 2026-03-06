@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AnmolSaini28/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnmolSaini28/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AnmolSaini28/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AnmolSaini28/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AnmolSaini28/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnmolSaini28/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/AnmolSaini28/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AnmolSaini28/Leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AnmolSaini28/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnmolSaini28/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnmolSaini28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnmolSaini28/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/AnmolSaini28/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnmolSaini28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AnmolSaini28/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AnmolSaini28/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/AnmolSaini28/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnmolSaini28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnmolSaini28/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AnmolSaini28/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/AnmolSaini28/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/AnmolSaini28/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AnmolSaini28/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/AnmolSaini28/Leetcode/tree/master/0493-reverse-pairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolSaini28/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -501,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/AnmolSaini28/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolSaini28/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AnmolSaini28/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
