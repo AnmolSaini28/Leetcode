@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AnmolSaini28/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnmolSaini28/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/AnmolSaini28/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AnmolSaini28/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/AnmolSaini28/Leetcode/tree/master/0283-move-zeroes) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/AnmolSaini28/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1940-maximum-xor-for-each-query](https://github.com/AnmolSaini28/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolSaini28/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
