@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AnmolSaini28/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnmolSaini28/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnmolSaini28/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnmolSaini28/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnmolSaini28/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnmolSaini28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AnmolSaini28/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
