@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnmolSaini28/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolSaini28/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AnmolSaini28/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnmolSaini28/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnmolSaini28/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnmolSaini28/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolSaini28/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnmolSaini28/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnmolSaini28/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnmolSaini28/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
 |  |
 | ------- |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AnmolSaini28/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolSaini28/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3394-minimum-array-end](https://github.com/AnmolSaini28/Leetcode/tree/master/3394-minimum-array-end) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnmolSaini28/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Monotonic Stack
