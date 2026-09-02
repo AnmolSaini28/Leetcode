@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolSaini28/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AnmolSaini28/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnmolSaini28/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
