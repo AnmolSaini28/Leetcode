@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AnmolSaini28/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnmolSaini28/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/AnmolSaini28/Leetcode/tree/master/1013-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnmolSaini28/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnmolSaini28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnmolSaini28/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnmolSaini28/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AnmolSaini28/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnmolSaini28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AnmolSaini28/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnmolSaini28/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnmolSaini28/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AnmolSaini28/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Trie
