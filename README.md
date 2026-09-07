@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/AnmolSaini28/Leetcode/tree/master/0868-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1250-longest-common-subsequence](https://github.com/AnmolSaini28/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AnmolSaini28/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnmolSaini28/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AnmolSaini28/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AnmolSaini28/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/AnmolSaini28/Leetcode/tree/master/0868-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/AnmolSaini28/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/AnmolSaini28/Leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AnmolSaini28/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AnmolSaini28/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
