@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnmolSaini28/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/AnmolSaini28/Leetcode/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/AnmolSaini28/Leetcode/tree/master/3451-string-compression-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/AnmolSaini28/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnmolSaini28/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AnmolSaini28/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/AnmolSaini28/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AnmolSaini28/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3498-reverse-degree-of-a-string](https://github.com/AnmolSaini28/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnmolSaini28/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
