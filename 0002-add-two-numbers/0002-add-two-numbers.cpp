@@ -32,6 +32,9 @@ public:
             curr->next = newNode;
             curr = newNode;
         }
-        return dummyNode->next;
+
+        ListNode* head = dummyNode->next;
+        delete dummyNode;
+        return head;
     }
 };
