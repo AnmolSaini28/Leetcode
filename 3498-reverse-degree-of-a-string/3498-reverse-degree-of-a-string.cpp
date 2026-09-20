@@ -6,8 +6,6 @@ public:
         vector <int > arr(n,0);
         for (int i = 0; i < n; i++) {
             arr[i] = (26 - (s[i] - 'a')) * (i + 1);
-        }
-        for(int i=0 ; i<n ; i++){
             sum += arr[i];
         }
         return sum;
